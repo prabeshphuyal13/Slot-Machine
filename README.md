@@ -43,12 +43,23 @@ Spin the reels, place bets, and try your luck with three symbols: 💎 💀 💲
 
 <ol>
   <li>Run the script in a terminal:</li>
-
   <pre><code>python slot_machine.py</code></pre>
-
   <li>Follow the on-screen prompts to deposit, bet, and spin.</li>
   <li>Enjoy the game!</li>
 </ol>
+
+<hr>
+
+<h2>🖼 Screenshots</h2>
+
+<p align="center">
+  <img src="Screenshot/ss1.png" alt="Welcome Screen" width="600"><br><br>
+  <img src="Screenshot/ss2.png" alt="Deposit Screen" width="600"><br><br>
+  <img src="Screenshot/ss3.png" alt="Bet Screen" width="600"><br><br>
+  <img src="Screenshot/ss4.png" alt="Spinning Animation" width="600"><br><br>
+  <img src="Screenshot/ss5.png" alt="Result Example" width="600"><br><br>
+  <img src="Screenshot/ss6.png" alt="Jackpot Example" width="600">
+</p>
 
 <hr>
 
